@@ -1,0 +1,31 @@
+Print " " outputs what is written in the inverted comma's
+#  used to write comments in code
++  plus (Addition operator)
+-  minus (Subtraction operator)
+/  slash (division operator)
+*  asterisk (multiplication operator)
+%  percent
+<  less-than
+>  greater-than
+<=  less-than-equal
+>=  greater-than-equal
+X = 'hello'  An example of a variable 
+_  used to give space in a variable name
+% variable_name  used to call a variable
+\n  used to tell the python to print in a new line
+print """ """  used to print more than one line 
+\\	Backslash 
+\'	Single quote 
+\"	Double quote 
+raw_input()  used to take user input
+from stuff import things  used to import features/modules from a python library
+close  Closes the file
+read  Reads the contents of the file
+readline  Reads just one line of a text file.
+truncate  deletes the content of the file
+write('stuff')  Writes "stuff" to the file.
+len() gets the length of the string
+def  used to define a function
+seek()  moves the pointer to a specific part of the file 
+return  takes the ouput from a function   
+
